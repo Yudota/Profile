@@ -2,7 +2,8 @@
 
 # I'm Yuri Fernandes
 
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yudota&show_icons=true&count_private=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudota&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
+![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yudota&show_icons=true&count_private=true&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudota&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Welcome to my world! :octocat:
