@@ -8,7 +8,7 @@ Welcome to my world! :octocat:
 
 * 🔭 I’m currently working on **GrooveTech**
 
-* 🌱 I’m currently learning **Node.js, React JS, Javascript, Rust and Phyton**
+* 🌱 I’m currently learning **Node.js, React JS, Javascript, Typescript and React Native**
 
 * 👨‍💻 All of my projects are available [here!](https://github.com/Yudota?tab=repositories)
 
