@@ -6,9 +6,12 @@ Welcome to my world! :octocat:
 
 - I'm living in Mogi das Cruzes / São Paulo - Brazil
 
-* 🔭 I’m currently working on **GrooveTech**
+- Y-Tech Founder and Partner
 
-* 🌱 I’m currently learning **Node.js, React JS, Javascript, Typescript and React Native**
+
+* 🔭 I’m currently working on **Gimi Soluções em Energia**
+
+* 🌱 I’m currently learning **Node.js, React JS,Typescript, Javascript and Clean Code**
 
 * 👨‍💻 All of my projects are available [here!](https://github.com/Yudota?tab=repositories)
 
