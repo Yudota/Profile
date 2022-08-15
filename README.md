@@ -9,7 +9,7 @@ Welcome to my world! :octocat:
 - Y-Tech Founder and Partner
 
 
-* 🔭 I’m currently working on **Gimi Soluções em Energia**
+* 🔭 I’m currently working on **[NewGo Tecnologia](https://newgo.com.br/)**
 
 * 🌱 I’m currently learning **Node.js, React JS,Typescript, Javascript and Clean Code**
 
