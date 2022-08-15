@@ -11,7 +11,9 @@ Welcome to my world! :octocat:
 
 * 🔭 I’m currently working on **[NewGo Tecnologia](https://newgo.com.br/)**
 
-* 🌱 I’m currently learning **Node.js, React JS,Typescript, Javascript and Clean Code**
+* 🌱 I’m currently learning **Serverless Computing, Domain-Driven-Design and Clean Architecture**
+
+* I'm on my way to being a Node.js expert!
 
 * 👨‍💻 All of my projects are available [here!](https://github.com/Yudota?tab=repositories)
 
