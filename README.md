@@ -15,14 +15,14 @@ Welcome to my world! :octocat:
 
 * I'm on my way to being a Node.js expert!
 
-* 👨‍💻 All of my projects are available [here!](https://github.com/Yudota?tab=repositories)
+* 👨‍💻 All of my projects are available [here!](https://github.com/YuriNewGo?tab=repositories)
 
 <div align="center">
-  <a href="https://github.com/Yudota">
+  <a href="https://github.com/YuriNewGo">
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Yudota&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=YuriNewGo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudota&layout=compact&langs_count=7&theme=dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriNewGo&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 ### Academic Background
@@ -161,5 +161,5 @@ Welcome to my world! :octocat:
   style="max-width:100%;">](mailto:yuri.fernandes.961@gmail.com?subject=Contato%20pelo%20Github)
 
 <!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudota&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriNewGo&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
 -->
