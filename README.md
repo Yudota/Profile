@@ -6,23 +6,22 @@ Welcome to my world! :octocat:
 
 - I'm living in Mogi das Cruzes / São Paulo - Brazil
 
-- Y-Tech Founder and Partner
 
 
-* 🔭 I’m currently working on **[NewGo Tecnologia](https://newgo.com.br/)**
+* 🔭 I’m currently avaliable for new opportunities
 
 * 🌱 I’m currently learning **Serverless Computing, Domain-Driven-Design and Clean Architecture**
 
 * I'm on my way to being a Node.js expert!
 
-* 👨‍💻 All of my projects are available [here!](https://github.com/YuriNewGo?tab=repositories)
+* 👨‍💻 All of my projects are available [here!](https://github.com/Yudota?tab=repositories)
 
 <div align="center">
-  <a href="https://github.com/YuriNewGo">
+  <a href="https://github.com/Yudota">
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=YuriNewGo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=Yudota&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriNewGo&layout=compact&langs_count=7&theme=dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudota&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 ### Academic Background
